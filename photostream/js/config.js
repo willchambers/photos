@@ -7,7 +7,7 @@ export const config = {
 
   // The private library: every post, published or not. It lives on its own
   // branch so the app's photo commits never mix with code history.
-  library: { owner: 'willchambers', repo: 'photostream', branch: 'library' },
+  library: { owner: 'willchambers', repo: 'photostream-app', branch: 'library' },
 
   // The public photos site. Published posts land here and go live after its
   // build. It's a GitHub project site at /photos/, and the app is served from
