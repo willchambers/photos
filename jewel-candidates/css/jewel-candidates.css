@@ -1,0 +1,11 @@
+/* ==========================================================================
+   Jewel candidates — components this site uses that Jewel doesn't have yet.
+   They're copies of willchambers.github.io's jewel-candidates/, which tracks
+   them in GAPS.md. Move them into Jewel rather than editing them here.
+
+   Link this after jewel.css. The imports land in the same `components`
+   layer that jewel.css declared, so the cascade order stays the system's.
+   ========================================================================== */
+
+@import url("components/gallery.css") layer(components);
+@import url("components/skip-link.css") layer(components);

@@ -1,0 +1,8 @@
+# Site-wide settings. Edit by hand; the CMS edits profile.yml instead.
+title: Will Chambers · Photos
+author: Will Chambers
+description: Snapshots of my daily adventures.
+# The site's address is url + base. base is the GitHub project path; every
+# link in the built pages is prefixed with it.
+url: https://willchambers.github.io
+base: /photos/

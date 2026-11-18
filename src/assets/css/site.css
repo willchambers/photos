@@ -1,0 +1,3 @@
+/* Site-only styles. Unlayered, so they sit above every Jewel layer.
+   Anything here that turns out to be reusable should become a candidate
+   component in jewel-candidates/ instead. */
